@@ -11,7 +11,7 @@ A simple banking system with features such as:
 ### Run the Program
 Execute the script:
 ```bash
-python main.py
+
 
 
 Upon running, the following menu appears:
